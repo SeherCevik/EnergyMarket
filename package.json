@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "mongodb": "^4.7.0"
+  },
+  
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs",
+    "esModuleInterop": true
+  
+  }
+
+}
